@@ -1,2 +1,3 @@
 # UFES-SR
-It is what it is.
+Sintam-se livre para colaborar fazendo pull requests.
+Feito por Arthur Lorencini Bergamaschi
